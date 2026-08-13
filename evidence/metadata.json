@@ -1,0 +1,18 @@
+{
+  "live_url": "https://agentbounties.app/",
+  "captured_at_utc": "2026-08-13T22:15:49Z",
+  "safari_version": "26.4",
+  "macos_version": "26.4",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "screenshot_sha256": "868f7d5bcc48e3a92a7d9d10d5e1e11bed76b3135afed329b88b24664ae97c8b",
+  "public_run_url": "https://github.com/a1271981054/agent-bounties-safari-evidence-demo",
+  "source_capture": {
+    "width": 1229,
+    "height": 768,
+    "device_pixel_ratio": 2,
+    "normalization": "The local Computer Use screenshot was a 1229x768 JPEG; it was converted to PNG and resized to the required 1280x800 evidence canvas without changing page content."
+  }
+}

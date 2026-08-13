@@ -1,0 +1,10 @@
+[
+  {
+    "level": "info",
+    "message": "Safari Web Inspector JavaScript Console opened for the production homepage; no pre-existing entries were displayed."
+  },
+  {
+    "level": "info",
+    "message": "A read-only viewport probe returned JSON successfully; no error or uncaught entry was observed."
+  }
+]
